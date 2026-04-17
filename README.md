@@ -18,8 +18,6 @@
 
 ---
 
-
-
 ## Table of Contents
 1. [Introduction](#1-introduction)  
 2. [Project Overview](#2-project-overview)  
@@ -38,7 +36,6 @@
 15. [Work Distribution](#15-work-distribution)  
 16. [References](#16-references)  
 
-
 ---
 
 # 1. Introduction
@@ -48,7 +45,6 @@ Cloud computing enables scalable, flexible, and efficient deployment of modern a
 Cloud-native applications are designed to fully utilize distributed systems, real-time processing, and scalable infrastructure. These characteristics are particularly important for modern web applications that require high availability and responsiveness.
 
 This project applies cloud computing principles to design and implement a social media application using Microsoft Azure services.
-
 
 ---
 
@@ -113,7 +109,7 @@ Significant improvements were made to transform the project into a fully functio
 ## 4.3 Profile System
 
 * Users can upload profile images
-* Users can update bio and display name
+* Users can update their bio and display name
 * Dynamic profile pages implemented
 
 ## 4.4 Image Storage Improvements
@@ -162,40 +158,43 @@ This layered architecture improves scalability, maintainability, and system reli
 ## 6.1 Azure App Service
 
 Used to host both frontend and backend applications, providing scalability and reliability.
+
 *<p> Frontend </p>*
-<img src="./screenshots/frontend.png" width="400">
+<img src="./screenshots/frontend.png" width="600">
+
 *<p> Backend </p>*
-<img src="./screenshots/backend.png" width="400">
+<img src="./screenshots/backend.png" width="600">
+
 ## 6.2 Azure Cosmos DB
 
 Used as a NoSQL database to store posts, user data, and chat-related information (Microsoft, 2024).
 
-<img src="./screenshots/CosmosDB.png" width="400">
+<img src="./screenshots/CosmosDB.png" width="600">
 
 ## 6.3 Azure Blob Storage
 
 Used to store images such as post images and profile pictures efficiently.
 
-<img src="./screenshots/blobStorage.png" width="400">
+<img src="./screenshots/blobStorage.png" width="600">
 
 ## 6.4 Azure SQL Database
 
 Used for structured data storage and relational data management.
 
-<img src="./screenshots/SQLdb.png" width="400">
+<img src="./screenshots/SQLdb.png" width="600">
 
 ## 6.5 Azure Web PubSub
 
 Azure Web PubSub enables real-time communication in the chat system. It allows users to send and receive messages instantly without refreshing the page, improving user experience and responsiveness (Microsoft, 2024).
 
-<img src="./screenshots/pubsub.png" width="400">
+<img src="./screenshots/pubsub.png" width="600">
 
 
 ## 6.6 Azure Application Insights
 
 Used for monitoring backend performance, tracking errors, and debugging issues during development.
 
-<img src="./screenshots/AppInsight.png" width="400">
+<img src="./screenshots/AppInsight.png" width="600">
 
 ## 6.7 Design Rationale 
 The selection of cloud services was based on scalability, performance, and suitability for application requirements.
@@ -227,8 +226,8 @@ Azure Application Insights was used for monitoring and diagnostics. It provides 
 Secure login and registration using token-based authentication.
 
  ![Login page](./screenshots/login.png)  
- ![regiseration page](./screenshots/registeration.png)   
- ![Validation Page](./screenshots/credintialValidation.png)
+ ![Registration page](./screenshots/registration.png)   
+ ![Credential Validation Page](./screenshots/credentialValidation.png)
 ---
 
 ## 8.2 Feed System
