@@ -10,7 +10,7 @@
 
 * Hesheng Yang
 * Yiming He
-* Sara Mirzaeipouynak
+* Sara Mirzaei
 * Bosi Chen
 * Xinyi Zhao
 
@@ -26,12 +26,14 @@
 4. Improvements from Phase 2
 5. System Architecture
 6. Cloud Technologies Used
-7. Features Implementation
-8. Connectivity and Integration
-9. Challenges and Solutions
-10. Future Improvements
-11. Conclusion
-12. References
+7. Video Demo
+8. Features Implementation
+9. Connectivity and Integration
+10. Challenges and Solutions
+11. Future Improvements
+12. Conclusion
+13. Supporting Repositories
+14. References
 
 ---
 
@@ -252,7 +254,7 @@ Resolved through improved logging and validation.
 
 ---
 
-# 10. Future Improvements
+# 11. Future Improvements
 
 Future enhancements could further improve the system.
 
@@ -266,14 +268,14 @@ These improvements would make the system more scalable and production-ready.
 
 ---
 
-# 11. Conclusion
+# 12. Conclusion
 
 This project demonstrates how cloud computing can be used to build a modern, scalable, and interactive application. The transition from Phase 2 to the final implementation significantly improved functionality, usability, and reliability.
 
 The integration of multiple Azure services highlights the importance of proper cloud architecture in real-world applications.
 
 ---
-# Frontend and Backend Repository:
+# 13. Frontend and Backend Repository:
 
 This project consists of separate frontend and backend repositories hosted on GitHub.
 
