@@ -324,29 +324,7 @@ https://github.com/saraMir26/CST8912-FinalProject-Backend1
 
 These repositories include all source code, configuration files, and documentation required to run the application.
 
-# 12. References
-
-Microsoft. (2024). *Azure documentation*. https://learn.microsoft.com/azure
-
-React Documentation. (2024). https://react.dev
-
-Node.js Documentation. (2024). https://nodejs.org
-
-Algonquin College Library. (2024). *APA citation guide*. https://algonquincollege.libguides.com
-
 ---
-
-# 13. Frontend and Backend Repository:
-
-This project consists of separate frontend and backend repositories hosted on GitHub.
-
-Frontend Repository:
-https://github.com/saraMir26/CST8912-FinalProject-Frontend
-
-Backend Repository:
-https://github.com/saraMir26/CST8912-FinalProject-Backend1
-
-These repositories include all source code, configuration files, and documentation required to run the application.
 
 # 14. How to Use the Application
 
