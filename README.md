@@ -273,6 +273,17 @@ This project demonstrates how cloud computing can be used to build a modern, sca
 The integration of multiple Azure services highlights the importance of proper cloud architecture in real-world applications.
 
 ---
+# Frontend and Backend Repository:
+
+This project consists of separate frontend and backend repositories hosted on GitHub.
+
+Frontend Repository:
+https://github.com/saraMir26/CST8912-FinalProject-Frontend
+
+Backend Repository:
+https://github.com/saraMir26/CST8912-FinalProject-Backend1
+
+These repositories include all source code, configuration files, and documentation required to run the application.
 
 # 12. References
 
