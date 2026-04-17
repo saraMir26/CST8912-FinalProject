@@ -10,7 +10,7 @@
 
 * Hesheng Yang
 * Yiming He
-* Sara Mirzaeipouynak
+* Sara Mirzaei
 * Bosi Chen
 * Xinyi Zhao
 
