@@ -215,7 +215,7 @@ Azure Application Insights was used for monitoring and diagnostics. It provides 
 
 # 7. Video Demo
 
-[![Watch the demo](https://img.youtube.com/vi/1DDkg3toBmQ/hqdefault.jpg)](https://www.youtube.com/watch?v=1DDkg3toBmQ)
+[![Watch the demo](https://img.youtube.com/vi/oRSEHOfwGpQ/hqdefault.jpg)](https://www.youtube.com/watch?v=oRSEHOfwGpQ)
 
 ---
 
