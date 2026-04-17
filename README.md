@@ -18,9 +18,9 @@
 
 ---
 
-# Table of Contents
 
-# Table of Contents
+
+## Table of Contents
 1. [Introduction](#1-introduction)  
 2. [Project Overview](#2-project-overview)  
 3. [Phase 2 Summary](#3-phase-2-summary)  
