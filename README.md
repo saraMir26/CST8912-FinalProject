@@ -133,8 +133,8 @@ Frontend → Backend API → Cloud Services
 * Backend processes requests and manages logic
 * Azure services handle storage and deployment
 
-📸 **[./diagram.jpg]**
-👉 *Note: Show flow between frontend, backend, Cosmos DB, Blob Storage, SQL, and Web PubSub*
+![Diagram](/diagram/diagram.png)
+ *Note: Show flow between frontend, backend, Cosmos DB, Blob Storage, SQL, and Web PubSub*
 
 ---
 
@@ -178,52 +178,44 @@ Used for monitoring backend performance, tracking errors, and debugging issues d
 
 Secure login and registration using token-based authentication.
 
- **[./screenshots/login.png]**
- **[./screenshots/registeration.png]**
- **[./screenshots/credintialValidation.png]**
+ ![Login page](./screenshots/login.png)  
+ ![regiseration page](./screenshots/registeration.png)   
+ ![Validation Page](./screenshots/credintialValidation.png)
 ---
 
 ## 8.2 Feed System
 
 Users can create, view, and delete posts.
 
-📸 **[./screenshots/feed.png]**
+![feed page](./screenshots/feed.png)
 
 ---
 
-## 7.3 Post Management
-
-Users can delete their own posts using backend validation.
-
-📸 **[INSERT DELETE POST SCREENSHOT HERE]**
-
----
-
-## 7.4 Profile System
+## 8.3 Profile System
 
 Users can view and edit profiles, including uploading images.
 
-📸 **[INSERT PROFILE SCREENSHOT HERE]**
+![Profile page]{./screenshots/profilepage.png)
 
 ---
 
-## 7.5 Chat System
+## 8.4 Chat System
 
 Users can communicate in real time using Azure Web PubSub.
 
-📸 **[INSERT CHAT SCREENSHOT HERE]**
+![Chat Page](./screenshots/chatpage.png)
 
 ---
 
-## 7.6 Home Page Layout
+## 8.5 Home Page Layout
 
-A centralized dashboard combining users and feed.
+A centralized dashboard combining users and feeds.
 
-📸 **[./screenshots/homepage.png]**
+![Home Page](./screenshots/homepage.png)
 
 ---
 
-# 8. Connectivity and Integration
+# 9. Connectivity and Integration
 
 The application demonstrates full cloud connectivity:
 
@@ -236,7 +228,7 @@ This integration ensures efficient communication across all system components.
 
 ---
 
-# 9. Challenges and Solutions
+# 10. Challenges and Solutions
 
 ## CORS Issues
 
@@ -244,7 +236,7 @@ Resolved by configuring allowed origins properly.
 
 ## Deployment Failures
 
-Resolved by fixing file structure and GitHub Actions configuration.
+Resolved by fixing the file structure and GitHub Actions configuration.
 
 ## Database Connectivity
 
