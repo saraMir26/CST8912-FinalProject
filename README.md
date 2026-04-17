@@ -195,7 +195,7 @@ Users can create, view, and delete posts.
 
 Users can view and edit profiles, including uploading images.
 
-![Profile page]{./screenshots/profilepage.png)
+![Profile page](./screenshots/profilepage.png)
 
 ---
 
