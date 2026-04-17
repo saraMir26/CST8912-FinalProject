@@ -166,21 +166,28 @@ Used for monitoring backend performance, tracking errors, and debugging issues d
 
 ---
 
-# 7. Features Implementation
+# 7. Video Demo
 
-## 7.1 Authentication
-
-Secure login and registration using token-based authentication.
-
-📸 **[INSERT LOGIN + REGISTER SCREENSHOT HERE]**
+[![Watch the demo](https://img.youtube.com/vi/1DDkg3toBmQ/hqdefault.jpg)](https://www.youtube.com/watch?v=1DDkg3toBmQ)
 
 ---
 
-## 7.2 Feed System
+# 8. Features Implementation
+
+## 8.1 Authentication
+
+Secure login and registration using token-based authentication.
+
+ **[./screenshots/login.png]**
+ **[./screenshots/registeration.png]**
+ **[./screenshots/credintialValidation.png]**
+---
+
+## 8.2 Feed System
 
 Users can create, view, and delete posts.
 
-📸 **[INSERT FEED SCREENSHOT HERE]**
+📸 **[./screenshots/feed.png]**
 
 ---
 
@@ -212,7 +219,7 @@ Users can communicate in real time using Azure Web PubSub.
 
 A centralized dashboard combining users and feed.
 
-📸 **[INSERT HOME PAGE SCREENSHOT HERE]**
+📸 **[./screenshots/homepage.png]**
 
 ---
 
