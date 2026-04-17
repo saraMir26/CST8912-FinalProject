@@ -243,7 +243,7 @@ Users can create, view, and delete posts.
 
 Users can view and edit profiles, including uploading images.
 
-![Profile page](./screenshots/profilepage.png)
+<img src="./screenshots/profilepage.png" width="600">
 
 ---
 
@@ -251,7 +251,7 @@ Users can view and edit profiles, including uploading images.
 
 Users can communicate in real time using Azure Web PubSub.
 
-![Chat Page](./screenshots/chatpage.png)
+<img src="./screenshots/chatpage.png" width="600">
 
 ---
 
@@ -259,7 +259,7 @@ Users can communicate in real time using Azure Web PubSub.
 
 A centralized dashboard combining users and feeds.
 
-![Home Page](./screenshots/homepage.png)
+<img src="./screenshots/homepage.png" width="600">
 
 ---
 
