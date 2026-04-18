@@ -126,6 +126,8 @@ Azure Blob Storage was fully integrated for handling image uploads and retrieval
 
 Azure Application Insights was used to monitor application performance and detect errors, improving reliability (Microsoft, 2024).
 
+Additionally, Azure Monitor Metrics was used to track CPU time and memory usage of the backend service based on time, providing insight into system performance and resource utilization (Microsoft, 2026).
+
 ---
 
 # 5. System Architecture
@@ -352,7 +354,7 @@ The project was completed through collaborative teamwork, with responsibilities 
 * Sara Mirzaei: User interface improvements and backend enhancements in Phase 3
 * Xinyi Zhao: System architecture design, testing, and documentation
 * Hesheng Yang: Presentation delivery and project explanation
-* Bosi Chen: Presentation delivery and project explanation
+* Bosi Chen: Presentation delivery, project explanation and performance monitoring using Azure Monitor Metrics in Phase 3
 
 This distribution ensured efficient collaboration and allowed each team member to contribute based on their strengths, resulting in a well-integrated and functional system.
 
@@ -377,5 +379,7 @@ Microsoft. (2022, November 21). About Blob (object) storage - Azure Storage. Lea
 ‌Microsoft. (2025, May 28). What is Azure Web PubSub service? Microsoft Learn. https://learn.microsoft.com/en-us/azure/azure-web-pubsub/overview   
 ‌
 Microsoft. (2026, April 2). Azure Monitor Insights Overview - Azure Monitor. Microsoft Learn. https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/insights-overview
+
+Microsoft. (2026, May 20). Azure Monitor Metrics overview - Azure Monitor. Microsoft Learn. https://learn.microsoft.com/en-us/azure/azure-monitor/metrics/data-platform-metrics
 
 ---
