@@ -311,7 +311,7 @@ The integration of multiple Azure services highlights the importance of well-des
 Overall, the project reflects the practical application of cloud solution architecture principles and provides a strong foundation for further enhancements toward a production-ready system.
 
 ---
-# 13. Frontend and Backend Repository:
+# 13. Frontend and Backend Repository
 
 This project consists of separate frontend and backend repositories hosted on GitHub.
 
