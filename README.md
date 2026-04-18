@@ -202,7 +202,7 @@ Used for monitoring backend performance, tracking errors, and debugging issues d
 
 Used to track system performance metrics of the backend service. CPU time and memory usage were monitored to analyze resource utilization and identify potential performance bottlenecks.
 
-<img src="./screenshots/CPUMetrics.png" width="600">
+<img src="./screenshots/CPUMEtrics.png" width="600">
 <img src="./screenshots/memoryMetrics.png" width="600">
 
 
