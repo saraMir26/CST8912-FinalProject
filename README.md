@@ -126,6 +126,8 @@ Azure Blob Storage was fully integrated for handling image uploads and retrieval
 
 Azure Application Insights was used to monitor application performance and detect errors, improving reliability (Microsoft, 2024).
 
+Additionally, Azure Monitor Metrics was used to track CPU time and memory usage of the backend service based on time, providing insight into system performance and resource utilization (Microsoft, 2026).
+
 ---
 
 # 5. System Architecture
@@ -196,7 +198,15 @@ Used for monitoring backend performance, tracking errors, and debugging issues d
 
 <img src="./screenshots/AppInsight.png" width="600">
 
-## 6.7 Design Rationale 
+## 6.7 Azure Monitor
+
+Used to track system performance metrics of the backend service. CPU time and memory usage were monitored to analyze resource utilization and identify potential performance bottlenecks.
+
+<img src="./screenshots/CPUMEtrics.png" width="600">
+<img src="./screenshots/memoryMetrics.png" width="600">
+
+
+## 6.8 Design Rationale 
 The selection of cloud services was based on scalability, performance, and suitability for application requirements.
 
 Azure App Service was chosen to host both the frontend and backend because it supports dynamic server-side logic, environment variable configuration, and seamless deployment through GitHub integration. Compared with static hosting solutions, it offers greater flexibility for full-stack applications (Microsoft, n.d.).
@@ -311,7 +321,7 @@ The integration of multiple Azure services highlights the importance of well-des
 Overall, the project reflects the practical application of cloud solution architecture principles and provides a strong foundation for further enhancements toward a production-ready system.
 
 ---
-# 13. Frontend and Backend Repository:
+# 13. Frontend and Backend Repository
 
 This project consists of separate frontend and backend repositories hosted on GitHub.
 
@@ -344,7 +354,7 @@ The project was completed through collaborative teamwork, with responsibilities 
 * Sara Mirzaei: User interface improvements and backend enhancements in Phase 3
 * Xinyi Zhao: System architecture design, testing, and documentation
 * Hesheng Yang: Presentation delivery and project explanation
-* Bosi Chen: Presentation delivery and project explanation
+* Bosi Chen: Presentation delivery, project explanation and performance monitoring using Azure Monitor Metrics in Phase 3
 
 This distribution ensured efficient collaboration and allowed each team member to contribute based on their strengths, resulting in a well-integrated and functional system.
 
@@ -358,16 +368,18 @@ Node.js Documentation. (2024). https://nodejs.org
 
 Algonquin College Library. (2024). *APA citation guide*. https://algonquincollege.libguides.com
 
-Microsoft. (n.d.). Azure App Service documentation - Azure App Service. Learn.microsoft.com. https://learn.microsoft.com/en-us/azure/app-service/
+Microsoft. (n.d.). Azure App Service documentation - Azure App Service. Learn.microsoft.com. https://learn.microsoft.com/en-us/azure/app-service/   
 
-‌Microsoft. (2025, December 19). Quickstart - Azure portal - Azure Cosmos DB. Microsoft.com. https://learn.microsoft.com/en-us/azure/cosmos-db/quickstart-portal
+‌Microsoft. (2025, December 19). Quickstart - Azure portal - Azure Cosmos DB. Microsoft.com. https://learn.microsoft.com/en-us/azure/cosmos-db/quickstart-portal   
 
-‌Microsoft. (2025, June 17). What is the Azure SQL Database service? - Azure SQL Database. Microsoft.com. https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql-db&preserve-view=true
+‌Microsoft. (2025, June 17). What is the Azure SQL Database service? - Azure SQL Database. Microsoft.com. https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql-db&preserve-view=true    
 
-Microsoft. (2022, November 21). About Blob (object) storage - Azure Storage. Learn.microsoft.com. https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-overview
+Microsoft. (2022, November 21). About Blob (object) storage - Azure Storage. Learn.microsoft.com. https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-overview   
 
-‌Microsoft. (2025, May 28). What is Azure Web PubSub service? Microsoft Learn. https://learn.microsoft.com/en-us/azure/azure-web-pubsub/overview
+‌Microsoft. (2025, May 28). What is Azure Web PubSub service? Microsoft Learn. https://learn.microsoft.com/en-us/azure/azure-web-pubsub/overview   
 ‌
 Microsoft. (2026, April 2). Azure Monitor Insights Overview - Azure Monitor. Microsoft Learn. https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/insights-overview
+
+Microsoft. (2026, May 20). Azure Monitor Metrics overview - Azure Monitor. Microsoft Learn. https://learn.microsoft.com/en-us/azure/azure-monitor/metrics/data-platform-metrics
 
 ---
