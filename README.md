@@ -358,15 +358,15 @@ Node.js Documentation. (2024). https://nodejs.org
 
 Algonquin College Library. (2024). *APA citation guide*. https://algonquincollege.libguides.com
 
-Microsoft. (n.d.). Azure App Service documentation - Azure App Service. Learn.microsoft.com. https://learn.microsoft.com/en-us/azure/app-service/
+Microsoft. (n.d.). Azure App Service documentation - Azure App Service. Learn.microsoft.com. https://learn.microsoft.com/en-us/azure/app-service/   
 
-‌Microsoft. (2025, December 19). Quickstart - Azure portal - Azure Cosmos DB. Microsoft.com. https://learn.microsoft.com/en-us/azure/cosmos-db/quickstart-portal
+‌Microsoft. (2025, December 19). Quickstart - Azure portal - Azure Cosmos DB. Microsoft.com. https://learn.microsoft.com/en-us/azure/cosmos-db/quickstart-portal   
 
-‌Microsoft. (2025, June 17). What is the Azure SQL Database service? - Azure SQL Database. Microsoft.com. https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql-db&preserve-view=true
+‌Microsoft. (2025, June 17). What is the Azure SQL Database service? - Azure SQL Database. Microsoft.com. https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql-db&preserve-view=true    
 
-Microsoft. (2022, November 21). About Blob (object) storage - Azure Storage. Learn.microsoft.com. https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-overview
+Microsoft. (2022, November 21). About Blob (object) storage - Azure Storage. Learn.microsoft.com. https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-overview   
 
-‌Microsoft. (2025, May 28). What is Azure Web PubSub service? Microsoft Learn. https://learn.microsoft.com/en-us/azure/azure-web-pubsub/overview
+‌Microsoft. (2025, May 28). What is Azure Web PubSub service? Microsoft Learn. https://learn.microsoft.com/en-us/azure/azure-web-pubsub/overview   
 ‌
 Microsoft. (2026, April 2). Azure Monitor Insights Overview - Azure Monitor. Microsoft Learn. https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/insights-overview
 
