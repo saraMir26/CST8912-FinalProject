@@ -196,7 +196,15 @@ Used for monitoring backend performance, tracking errors, and debugging issues d
 
 <img src="./screenshots/AppInsight.png" width="600">
 
-## 6.7 Design Rationale 
+## 6.7 Azure Monitor
+
+Used to track system performance metrics of the backend service. CPU time and memory usage were monitored to analyze resource utilization and identify potential performance bottlenecks.
+
+<img src="./screenshots/CPUMetrics.png" width="600">
+<img src="./screenshots/memoryMetrics.png" width="600">
+
+
+## 6.8 Design Rationale 
 The selection of cloud services was based on scalability, performance, and suitability for application requirements.
 
 Azure App Service was chosen to host both the frontend and backend because it supports dynamic server-side logic, environment variable configuration, and seamless deployment through GitHub integration. Compared with static hosting solutions, it offers greater flexibility for full-stack applications (Microsoft, n.d.).
